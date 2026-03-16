@@ -80,6 +80,8 @@ const Works = () => {
 
       {/* footer */}
       <p className='t-20 text-xs text-gray-900 font-benchnine tracking-wide'>
+
+        <br />
         More Works Upon Request
       </p>
 
@@ -88,4 +90,4 @@ const Works = () => {
   );
 };
 
-export default Works
+export default Works;
